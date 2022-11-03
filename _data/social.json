@@ -1,5 +1,10 @@
 [
   {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/company/slow-skier-consulting-inc-",
+    "image": "images/social/linkedin.svg"
+  },
+  {
     "name": "YouTube",
     "link": "https://www.youtube.com/@slowskierconsulting",
     "image": "images/social/youtube.svg"
