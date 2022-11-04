@@ -2,9 +2,6 @@
 title: Values
 layout: page
 description: Values
-intro_image: "images/illustrations/reading.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
 ---
 <p style="width: 100%">
 Slow Skier Consulting Inc. has several principles and values that guide how we provide service to our clients.

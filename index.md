@@ -1,12 +1,7 @@
 ---
 title: Slow Skier Consulting Inc.
 layout: page
-description: 
-# intro_image: "images/illustrations/pointing.svg"
-intro_image: "images/logo/slowskier_logo.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
-show_call_box: false
+description: Slow Skier Consulting Inc.
 ---
 *A Saskatchewan based IT consulting company*
 

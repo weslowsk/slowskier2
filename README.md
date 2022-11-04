@@ -1,1 +1,1 @@
-# Slow Skier Consulting Inc Website
+# Slow Skier Consulting Inc. Website
